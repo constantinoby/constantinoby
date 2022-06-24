@@ -1,4 +1,4 @@
-- 🤖 Hi, I’m @constantinoby a Computer Engineering student.
+- 🤖 Hi, I’m @constantinoby a Computer Science student.
 
 - 👀 I’m interested in getting more knowledge.
 
